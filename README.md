@@ -14,7 +14,7 @@
   <ul>
   <li>B.Sc. (Hons) in Information Technology, University of Moratuwa</li>
   <li>Currently learning Python and NestJS</li>
-  <li>Open to collaborating on Node.js, React, and JavaScript projects</li>
+  <li>Open to collaborating on Node.js, React and JavaScript projects</li>
   <li>Based in Colombo, Sri Lanka</li>
   <li>Senior Software Engineer at <a href="https://well.tech/">WellTech</a></li>
   <li>Languages: JavaScript, TypeScript, C#, Python, SQL</li>
