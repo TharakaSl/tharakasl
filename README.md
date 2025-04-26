@@ -11,14 +11,15 @@
      <h3>💬 About me:</h3>
 </samp>
 <samp>
-   <ul style="list-style: none;">
-      <li>🎓   Bachelor of Science (B.Sc.) Hons, Information Technology, University of Moratuwa.</li>
-      <li>:seedling: I'm in constant learning ( currently Python / NestJS )</li>
-      <li>:octocat: I’m looking to collaborate projects that make use of <strong>Node.js, React, JavaScript</strong></li>
-      <li>🇱🇰 From Colombo, Sri Lanka</li>
-      <li>:office: Senior Software Engineer <a href="https://well.tech/">@WellTech</a></li>
-      <li>⚡ Languages: JavaScript, TypeScript, C#, Python, SQL</li>
-   </ul>
+  <ul>
+  <li>B.Sc. (Hons) in Information Technology, University of Moratuwa</li>
+  <li>Currently learning Python and NestJS</li>
+  <li>Open to collaborating on Node.js, React, and JavaScript projects</li>
+  <li>Based in Colombo, Sri Lanka</li>
+  <li>Senior Software Engineer at <a href="https://well.tech/">WellTech</a></li>
+  <li>Languages: JavaScript, TypeScript, C#, Python, SQL</li>
+</ul>
+
 </samp>
 <samp>
    <h3>Where to find me</h3>
